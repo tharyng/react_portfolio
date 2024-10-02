@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Software Engineer, Google",
+        "date": "Sept, 2022 - Present",
+        "description": "blablabla",
+        "icon": "flat-color-icons:google"
+    },
+    {
+        "title": "UI Designer, Microsoft",
+        "date": "Aug, 2021 - Aug, 2022",
+        "description": "bla bla bla",
+        "icon": "logos:microsoft-icon"
+    },
+    {
+        "title": "SWE Intern, Netflix",
+        "date": "Apr, 2020 - Jun, 2020",
+        "description": "bla bla bla",
+        "icon": "logos:netflix-icon"
+    }
+]

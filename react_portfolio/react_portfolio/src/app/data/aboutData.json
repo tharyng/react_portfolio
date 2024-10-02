@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Frontend Developer",
+        "description": "blablabla",
+        "icon": "tabler:pointer-star"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "bla bla bla",
+        "icon": "uil:server"
+    },
+    {
+        "title": "UI Designer",
+        "description": "bla bla bla",
+        "icon": "bi:pc"
+    }
+]
